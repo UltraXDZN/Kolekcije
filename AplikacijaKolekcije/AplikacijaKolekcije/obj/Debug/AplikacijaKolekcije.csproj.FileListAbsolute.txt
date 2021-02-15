@@ -1,0 +1,10 @@
+D:\Zadace\Kolekcije\AplikacijaKolekcije\AplikacijaKolekcije\bin\Debug\AplikacijaKolekcije.exe.config
+D:\Zadace\Kolekcije\AplikacijaKolekcije\AplikacijaKolekcije\bin\Debug\AplikacijaKolekcije.exe
+D:\Zadace\Kolekcije\AplikacijaKolekcije\AplikacijaKolekcije\bin\Debug\AplikacijaKolekcije.pdb
+D:\Zadace\Kolekcije\AplikacijaKolekcije\AplikacijaKolekcije\obj\Debug\AplikacijaKolekcije.csprojAssemblyReference.cache
+D:\Zadace\Kolekcije\AplikacijaKolekcije\AplikacijaKolekcije\obj\Debug\AplikacijaKolekcije.Form1.resources
+D:\Zadace\Kolekcije\AplikacijaKolekcije\AplikacijaKolekcije\obj\Debug\AplikacijaKolekcije.Properties.Resources.resources
+D:\Zadace\Kolekcije\AplikacijaKolekcije\AplikacijaKolekcije\obj\Debug\AplikacijaKolekcije.csproj.GenerateResource.cache
+D:\Zadace\Kolekcije\AplikacijaKolekcije\AplikacijaKolekcije\obj\Debug\AplikacijaKolekcije.csproj.CoreCompileInputs.cache
+D:\Zadace\Kolekcije\AplikacijaKolekcije\AplikacijaKolekcije\obj\Debug\AplikacijaKolekcije.exe
+D:\Zadace\Kolekcije\AplikacijaKolekcije\AplikacijaKolekcije\obj\Debug\AplikacijaKolekcije.pdb

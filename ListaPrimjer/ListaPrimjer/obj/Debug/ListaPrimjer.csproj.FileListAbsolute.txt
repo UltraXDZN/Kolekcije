@@ -1,0 +1,7 @@
+D:\Zadace\Kolekcije\ListaPrimjer\ListaPrimjer\bin\Debug\ListaPrimjer.exe.config
+D:\Zadace\Kolekcije\ListaPrimjer\ListaPrimjer\bin\Debug\ListaPrimjer.exe
+D:\Zadace\Kolekcije\ListaPrimjer\ListaPrimjer\bin\Debug\ListaPrimjer.pdb
+D:\Zadace\Kolekcije\ListaPrimjer\ListaPrimjer\obj\Debug\ListaPrimjer.csprojAssemblyReference.cache
+D:\Zadace\Kolekcije\ListaPrimjer\ListaPrimjer\obj\Debug\ListaPrimjer.csproj.CoreCompileInputs.cache
+D:\Zadace\Kolekcije\ListaPrimjer\ListaPrimjer\obj\Debug\ListaPrimjer.exe
+D:\Zadace\Kolekcije\ListaPrimjer\ListaPrimjer\obj\Debug\ListaPrimjer.pdb
